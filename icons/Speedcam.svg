@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   id="svg4171"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Speedcam.svg"
+   inkscape:export-filename="/home/michael/src/bash/poi/icons/Speedcam.png"
+   inkscape:export-xdpi="109.69"
+   inkscape:export-ydpi="109.69">
+  <defs
+     id="defs4173" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="23.59375"
+     inkscape:cx="4.9377483"
+     inkscape:cy="15.915249"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="863"
+     inkscape:window-x="1680"
+     inkscape:window-y="98"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata4176">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1020.3622)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4179"
+       width="30"
+       height="30"
+       x="1"
+       y="1021.3622" />
+    <g
+       id="g6631"
+       transform="matrix(0.15933952,0,0,0.15933952,4.3199353,1024.6124)">
+      <g
+         id="g6579">
+        <path
+           id="path6581"
+           d="m 47.979,35.818 -23.342,0 c -0.537,0 -0.977,-0.439 -0.977,-0.977 l 0,-9.386 c 0,-0.537 0.439,-0.977 0.977,-0.977 l 23.342,0 c 0.537,0 0.976,0.439 0.976,0.977 l 0,9.386 c -10e-4,0.538 -0.439,0.977 -0.976,0.977 z"
+           style="fill:#faa522"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path6583"
+           d="m 136.421,30.148 -124.014,0 C 5.583,30.148 0,35.848 0,42.814 l 0,68.87 c 0,6.967 5.583,12.666 12.407,12.666 l 124.014,0 c 6.824,0 12.408,-5.699 12.408,-12.666 l 0,-68.87 c 0,-6.966 -5.584,-12.666 -12.408,-12.666 z"
+           style="fill:#e32a27"
+           inkscape:connector-curvature="0" />
+        <circle
+           id="circle6585"
+           r="35.237"
+           cy="77.25"
+           cx="102.557"
+           style="fill:#faa522" />
+        <circle
+           id="circle6587"
+           r="26.207001"
+           cy="77.25"
+           cx="102.558"
+           style="fill:#fff8a5" />
+        <path
+           id="path6589"
+           d="m 40.233,30.148 -32.819,0 C 3.336,30.148 0,33.484 0,37.562 l 0,79.374 c 0,4.077 3.336,7.414 7.414,7.414 l 32.819,0 c 4.077,0 7.413,-3.337 7.413,-7.414 l 0,-79.374 c 0,-4.078 -3.335,-7.414 -7.413,-7.414 z"
+           style="fill:#c0221f"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path6591"
+           d="m 84.987,40.67 -31.943,0 c -0.33,0 -0.601,-0.27 -0.601,-0.601 l 0,-5.776 c 0,-0.33 0.271,-0.601 0.601,-0.601 l 31.943,0 c 0.331,0 0.602,0.271 0.602,0.601 l 0,5.776 c 0,0.331 -0.271,0.601 -0.602,0.601 z"
+           style="fill:#fff8a5"
+           inkscape:connector-curvature="0" />
+        <circle
+           id="circle6593"
+           r="6.0609999"
+           cy="112.486"
+           cx="137.79401"
+           style="fill:#c0221f" />
+      </g>
+      <g
+         id="g6595" />
+      <g
+         id="g6597" />
+      <g
+         id="g6599" />
+      <g
+         id="g6601" />
+      <g
+         id="g6603" />
+      <g
+         id="g6605" />
+      <g
+         id="g6607" />
+      <g
+         id="g6609" />
+      <g
+         id="g6611" />
+      <g
+         id="g6613" />
+      <g
+         id="g6615" />
+      <g
+         id="g6617" />
+      <g
+         id="g6619" />
+      <g
+         id="g6621" />
+      <g
+         id="g6623" />
+    </g>
+  </g>
+</svg>
